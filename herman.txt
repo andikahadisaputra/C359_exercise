@@ -1,0 +1,3 @@
+ hi hi my name is herman
+git is dumb
+just let me pull and push and create conflicts wherever i want
